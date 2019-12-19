@@ -5,8 +5,8 @@ import { router } from './_helpers';
 import App from './app/App';
 
 // setup fake backend
-import { configureFakeBackend } from './_helpers';
-configureFakeBackend();
+//import { configureFakeBackend } from './_helpers';
+//configureFakeBackend();
 
 new Vue({
     el: '#app',
